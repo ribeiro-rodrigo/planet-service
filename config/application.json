@@ -1,0 +1,9 @@
+{
+    "server":{
+        "port":3000 
+    }, 
+    "swApi":{
+        "host": "https://swapi.co/api", 
+        "timeout": 6000 
+    }
+}
